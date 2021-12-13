@@ -7,22 +7,43 @@ This is the coursework for CASA0016 -- Making, Designing and Building.
 这些颗粒物达到足够的浓度和时间可能会因此危害人类的健康和生活环境。
 
 
-## Board and Sensor 
+## Boards and Sensors
 
-1. Arduino WiFi uno
+1. Arduino uno WiFi Rev2: [ref](https://store.arduino.cc/products/arduino-uno-wifi-rev2)
+<img height="300" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/uno%20wifi.jpg"/>
 
-2. PMS5003 
+2. PlantTower -- PMS5003: [ref](http://www.plantower.com/en/content/?108.html)
+<img height="300" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/PMS5003.jpg" />
 
-3. Raspberry Pi 4
 
-4. LCD
+3. LCD and LED strip: 
+
+LCD: 
+
+<img height="300" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/LCD.jpeg" />
+
+LED: 
+
+<img height="200" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/LED.jpeg" />
+
+
+
+
+4. Raspberry Pi 4:[ref:](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+<img height="300" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/Raspberry.jpeg" />
+
 
 
 ## Process 
 
-1. 连接图
+1. circuit diagram
+<img height="500" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/circuit.jpeg"/>
 
-2. 实物图 
+
+
+2. actual project
+<img height="500" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/actual.jpeg"/>
+
 
 3. MQTT
 
