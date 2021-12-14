@@ -37,7 +37,7 @@ LED:
 ## Process 
 
 1. circuit diagram
-<img height="500" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/circuit.jpeg"/>
+<img height="800" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/circuit.jpeg"/>
 
 
 
@@ -46,8 +46,11 @@ LED:
 
 
 3. MQTT
+<img width="800" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/serial1.png"/>
+<img width="500" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/MQTT.png"/>
 
 4. data storage and Grafana 
+<img width="800" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/Grafana.png"/>
 
 ## Reflection 
 1. 3D printing -- 稳定
