@@ -22,7 +22,7 @@ SoftwareSerial pmsSerial(8, 9); // Tx->9, Rx->8
 ```
 |Parameter|Index|unit|
 |:-------:|:---:|:--:|
-|Range of Measurement|0.3~1.0；1.0~2.5；2.5~10|Micrometer（μ m）|
+|Range of Measurement|0.3-1.0;1.0-2.5;2.5-10|Micrometer（μ m）|
 |Effective Range|0~500|μ g/m³|
 |Maximum Range|≥1000|μ g/m³|
 |Resolution|1|μ g/m³|
