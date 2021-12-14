@@ -63,7 +63,9 @@ Adafruit_NeoPixel pixels(NUMPIXELS, PIN);
 
 3. Video: 
 
-[![Watch this video!](https://github.com/xxxcrttt/CASA0016/blob/main/Figure/LCD2.jpeg)](https://github.com/xxxcrttt/CASA0016/blob/main/Figure/video.mp4)
+<video src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/video.mp4" controls="controls" width="500" height="300"> </video>
+
+
 
 
 
