@@ -90,10 +90,12 @@ Publish the data under the topic ```student/CASA0016/ucfnrc0/```, this includes 
 
 ## Reflection 
 1. 3D printing -- more stable 
+
 Due to lack of time I am currently using a paper box, which has the major problem of not being stable enough to be placed well in the environment, so a more stable enclosure can be made by 3D printing. 
 
 
 2. AQI
+
 Air quality index includes not only Particulate Matter but also other gases such as SO2, O3, CO and so on. 
 It is also possible to find other sensors for more versatile air quality monitoring.
 
