@@ -70,7 +70,7 @@ Adafruit_NeoPixel pixels(NUMPIXELS, PIN);
 
 
 
-2. actual project
+2. prototype
 <img height="500" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/actual.jpeg"/>
 
 
