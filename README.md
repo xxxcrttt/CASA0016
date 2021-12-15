@@ -88,7 +88,7 @@ Publish the data under the topic ```student/CASA0016/ucfnrc0/```, this includes 
 5. data storage and Grafana 
 <img width="800" src="https://github.com/xxxcrttt/CASA0016/blob/main/Figure/Grafana.png"/>
 
-## Reflection 
+## Reflection and Challenges
 1. 3D printing -- more stable 
 
 Due to lack of time I am currently using a paper box, which has the major problem of not being stable enough to be placed well in the environment, so a more stable enclosure can be made by 3D printing. 
